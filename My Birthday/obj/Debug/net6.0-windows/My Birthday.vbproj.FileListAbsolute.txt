@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\My Birthday\bin\Debug\net6.0-windows\My Birthday.exe
+C:\Users\Administrator\source\repos\My Birthday\bin\Debug\net6.0-windows\My Birthday.deps.json
+C:\Users\Administrator\source\repos\My Birthday\bin\Debug\net6.0-windows\My Birthday.runtimeconfig.json
+C:\Users\Administrator\source\repos\My Birthday\bin\Debug\net6.0-windows\My Birthday.dll
+C:\Users\Administrator\source\repos\My Birthday\bin\Debug\net6.0-windows\ref\My Birthday.dll
+C:\Users\Administrator\source\repos\My Birthday\bin\Debug\net6.0-windows\My Birthday.pdb
+C:\Users\Administrator\source\repos\My Birthday\obj\Debug\net6.0-windows\My Birthday.vbproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\My Birthday\obj\Debug\net6.0-windows\My_Birthday.Form1.resources
+C:\Users\Administrator\source\repos\My Birthday\obj\Debug\net6.0-windows\My Birthday.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\My Birthday\obj\Debug\net6.0-windows\My Birthday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\My Birthday\obj\Debug\net6.0-windows\My Birthday.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\My Birthday\obj\Debug\net6.0-windows\My Birthday.AssemblyInfo.vb
+C:\Users\Administrator\source\repos\My Birthday\obj\Debug\net6.0-windows\My Birthday.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\My Birthday\obj\Debug\net6.0-windows\My Birthday.dll
+C:\Users\Administrator\source\repos\My Birthday\obj\Debug\net6.0-windows\ref\My Birthday.dll
+C:\Users\Administrator\source\repos\My Birthday\obj\Debug\net6.0-windows\My Birthday.pdb
+C:\Users\Administrator\source\repos\My Birthday\obj\Debug\net6.0-windows\My Birthday.genruntimeconfig.cache
